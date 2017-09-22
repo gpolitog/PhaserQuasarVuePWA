@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+# misc
+.DS_Store
+.thumbs.db
+dist/
+npm-debug.log*
+cordova/platforms
+cordova/plugins
